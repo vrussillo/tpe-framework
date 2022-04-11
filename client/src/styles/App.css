@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+}
+
+body {
+  font-family: montserrat, arial, verdana;
+}
+
+/* Gloabal Card Form Styling */
+.sub-entry-event-one, .sub-entry-event-two, .sub-entry-event-staff-one, .sub-entry-event-staff-two, .sub-entry-venue-one, .sub-entry-venue-two, .sub-entry-production-one, .sub-entry-production-two, .sub-entry-transportation-one, .sub-entry-transportation-two {
+  background: linear-gradient(180deg, #e1dff9, #b8b3dc);	
+  box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  margin-bottom: 5rem;
+}
+/* Glabal Card Form Styling */
+
+
+/* Logout Button */
+.btn-outline-warning {
+  padding: 10px 15px !important;
+  margin: -15px 0 -15px 10px !important;
+}
+/* Logout Button */

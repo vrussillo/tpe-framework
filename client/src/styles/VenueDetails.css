@@ -1,0 +1,25 @@
+
+
+/* Risk/Cost/Loss Header */
+.venue-header {
+    text-align: center;
+}
+/* Risk/Cost/Loss Header */
+
+
+/* Form Card */
+.sub-entry-venue-one {
+    width: 30vw;
+    height: 90vh;
+    float: left;
+    padding: 1.5rem 3rem 0 3rem;  
+}
+
+.sub-entry-venue-two {
+    width: 30vw;
+    height: 90vh;
+    float: left;
+    margin-left: 25px;
+    padding: 1.5rem 3rem 0 3rem;
+}
+/* Form Card */

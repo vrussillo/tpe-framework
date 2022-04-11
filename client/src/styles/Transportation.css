@@ -1,0 +1,182 @@
+/* Form Card-Width */
+.form-style {
+    margin: 50px;
+}
+/* Form Card-Width */
+
+
+
+#input-time {
+    width: 40%;
+    margin: 10px;
+    padding: 4px;
+
+}
+
+#input-map {
+    width: 250%;
+    margin: 8px;
+    padding: 5px;
+}
+
+/* Form Styling */
+#form-control-transportation {
+    font-size: 1em !important;
+    padding: 5px !important;
+    border-radius: 4px !important;
+    color: rgb(255, 255, 255) !important;
+    background-color: rgba(0, 0, 0, 0.2) !important;
+    width: 100% !important;
+}
+#form-control-service {
+    font-size: 1.1em;
+    text-align: center;
+    padding: 0;
+    border-radius: 4px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(122, 205, 217, 0);
+    width: 100%;
+}
+
+.t-head-style {
+    background-color: rgb(101, 95, 129);
+    color: white;
+}
+
+td:first-child {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+td:last-child {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+ 
+}
+
+.tr-style:nth-child(even) {
+    color: white;
+    background-color: rgb(101, 95, 129, 0.7);
+}
+
+.tr-style:nth-child(odd) {
+    color: white;
+    background-color: rgba(114, 96, 152, 0.7);
+}
+
+.tr-style-btn {
+    background-color: rgb(101, 95, 129);
+}
+
+.table-style {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 19px;
+}
+
+.th-style, .td-style {
+    width: 20%;
+    text-align: center;
+    border: 1px solid rgb(193, 186, 186);
+    padding: 7px;
+}
+/* Form Styling */
+
+
+/* Client Label and Inputs */
+.label-style {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    margin: 5px;
+}
+
+#form-control-transportation-label {
+    font-size: 1em !important;
+    margin: 8px;
+    border-radius: 4px !important;
+    color: rgb(255, 255, 255) !important;
+    background-color: rgba(0, 0, 0, 0.4) !important;
+}
+/* Client Label and Inputs */
+
+
+/* Total Cost and Notes Layout */
+.aside-style {
+    display: flex;
+}
+
+.section-style {
+    flex: 1 1 auto;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.total-cost-style {
+    color: rgb(255, 255, 255);
+    margin: 1px;
+    margin-top: 0.8rem;
+    font-size: 1.8em;
+    padding: 15px;
+    align-self: flex-end;
+    background-color: rgba(158, 40, 221, 0.8);
+}
+/* Total Cost and Notes Layout */
+
+
+/* Add - Reset - Submit Buttons */
+.btn-success {
+    margin: 10px;
+    display: inline;
+    padding: 2px !important;
+    width: 120px;
+    align-self: flex-end;
+    border-radius: 8px !important;
+    background-color: rgb(117, 190, 146) !important;
+}
+.btn-info {
+    margin: 10px;
+    display: inline;
+    padding: 2px !important;
+    width: 120px;
+    align-self: flex-end;
+    border-radius: 8px !important;
+    background-color: rgb(117, 139, 190) !important;
+}
+
+.btn-danger {
+    margin: 10px;
+    display: inline;
+    padding: 2px !important;
+    width: 120px;
+    align-self: flex-end;
+    border-radius: 8px !important;
+    background-color: rgb(183, 101, 130) !important;
+}
+
+.btn-warning {
+    margin: 1.5rem !important;
+    padding: 6px !important;
+    border-radius: 8px !important;
+    width: 50%;
+}
+
+.btn:hover {
+    background-color: rgba(74, 148, 131, 0.3) !important;
+}
+/* Add - Reset - Submit Buttons */
+
+
+/* Form Card */
+.sub-entry-transportation-one {
+    padding: 10px;
+}
+
+/* .sub-entry-event-transportation-two {
+    width: 30vw;
+    height: 85vh;
+    float: left;
+    margin-left: 25px;
+    padding: 1.5rem 3rem 0 3rem;
+} */
+/* Form Card */
